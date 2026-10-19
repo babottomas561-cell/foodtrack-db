@@ -1,0 +1,7 @@
+# Credenciales (el .env real vive en la carpeta de arriba, pero por las dudas)
+.env
+
+# Archivos del sistema y de Jupyter
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
